@@ -1,6 +1,5 @@
-# README
 
-## Proyecto: Red Neuronal para Clasificación de Datos
+### Red Neuronal para Clasificación de Datos
 
 ### Descripción
 Este proyecto implementa una red neuronal artificial (ANN) desde cero utilizando NumPy. La red neuronal es capaz de clasificar datos generados mediante distribuciones gaussianas. Se emplea una arquitectura de tres capas ocultas con funciones de activación ReLU y sigmoide.
